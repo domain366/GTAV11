@@ -7,3 +7,8 @@
 	path = domain366/app2
 	url = git@github.com:domain366/app2.git
 	branch = master
+
+[submodule "domain366/app3"]
+	path = domain366/app3
+	url = git@github.com:domain366/app3.git
+	branch = master
